@@ -10,5 +10,5 @@ Welcome to the **Hardhat ERC20 Token** project! This repository contains a fully
 1. Clone the repo 🔗
 2. Install dependencies 📦
 3. Deploy and test your token on the blockchain 🚀
-**💼 Ideal for:** Smart contract developers, blockchain enthusiasts, and those building decentralized applications (DApps)!
+- **💼 Ideal for:** Smart contract developers, blockchain enthusiasts, and those building decentralized applications (DApps)!
 
