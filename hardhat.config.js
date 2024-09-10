@@ -27,8 +27,9 @@ module.exports = {
       chainId: 31337,
     },
     localhost: {
-      url: "https://www.sepolia.com/example",
-      chainId: 1337,
+      url: "http://127.0.0.1:8545/",
+      // accounts: Thanks hardhat!
+      chainId: 31337,
     },
   },
   solidity: {
